@@ -88,6 +88,8 @@ int main() {
     myLibrary.addPlaylist(pop);
     myLibrary.listenPlaylist("Pop");
 
+    std::cout << "I want this line to represent the final version of my program!!" << std::endl;
+
 
 
     return 0;
