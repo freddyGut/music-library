@@ -1,0 +1,27 @@
+# ninja log v6
+24	3010	7609068966620769	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/main.cpp.obj	533f7e0037346783
+99	3957	7609062041831173	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/AudioTrack.cpp.obj	fd55c4d02b077225
+72	4754	7609062041565763	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/Playlist.cpp.obj	35e9e48e092a42ab
+3011	3445	7609068996482532	TerzoEsercizio_MusicLibrary.exe	f934d58f56a711b7
+79	3984	7609079298804638	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/MusicLibrary.cpp.obj	bed58e481354e6ee
+31	4213	7609079298338011	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/main.cpp.obj	533f7e0037346783
+60	4675	7609079298618955	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/Playlist.cpp.obj	35e9e48e092a42ab
+4676	5544	7609079344770880	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
+62	3939	7609099419290030	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/main.cpp.obj	533f7e0037346783
+99	3971	7609099419661455	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/Playlist.cpp.obj	35e9e48e092a42ab
+22	3287	7609102146126726	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/MusicLibrary.cpp.obj	bed58e481354e6ee
+3289	3957	7609102178803764	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
+22	2863	7609102854487911	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/main.cpp.obj	533f7e0037346783
+2865	3419	7609102882913481	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
+23	2737	7609103113882876	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/main.cpp.obj	533f7e0037346783
+2740	3355	7609103141048439	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
+22	2833	7609103412221487	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/main.cpp.obj	533f7e0037346783
+2834	3374	7609103440346674	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
+23	2958	7609104880306574	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/main.cpp.obj	533f7e0037346783
+2960	3517	7609104909674141	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
+55	3501	7609620288612486	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/Playlist.cpp.obj	35e9e48e092a42ab
+3504	4172	7609620323092465	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
+74	4234	7609764765555238	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/Playlist.cpp.obj	35e9e48e092a42ab
+4236	5071	7609764806969472	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
+115	9654	7611731968227261	CMakeFiles/TerzoEsercizio_MusicLibrary.dir/main.cpp.obj	533f7e0037346783
+9657	12896	7611732063628109	TerzoEsercizio_MusicLibrary.exe	1b68cb7ba108895
