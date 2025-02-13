@@ -66,6 +66,17 @@ int main() {
     myLibrary.addPlaylist(makeMeDance);
     myLibrary.listenPlaylist("Make me dance");
 
+    std::cout << "The real change sits here. Do you wanna join the table??" << std::endl;
+    std::cout << "With this commit, I am adding a new playlist to the library" << std::endl;
+
+    AudioTrack song9("Try again", 300, "redBackground.png");
+    AudioTrack song10("Vogue", 317, "MadonnaPosing.jpg");
+    Playlist oldies("Oldies");
+    oldies.addTrack(song9);
+    oldies.addTrack(song10);
+    myLibrary.addPlaylist(oldies);
+    myLibrary.listenPlaylist("Oldies");
+
 
 
     return 0;
