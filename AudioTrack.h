@@ -24,7 +24,7 @@ private:
     std::string title;
     int length;
     std::string imageFileName;
-    //not an actual change, but seen as such
+    //not an actual change, but seen as such n
 };
 
 #endif //AUDIOTRACK_H
