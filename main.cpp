@@ -79,5 +79,15 @@ int main() {
 
 
 
+    //I am adding a new playlist to the project.
+    AudioTrack song11("Feedback", 270, "hotJanetJackson.jpg");
+    AudioTrack song12("Consideration", 350, "babyRihanna.png");
+    Playlist pop("Pop");
+    pop.addTrack(song11);
+    pop.addTrack(song12);
+    myLibrary.addPlaylist(pop);
+    myLibrary.listenPlaylist("Pop");
+
+
     return 0;
 }
