@@ -88,7 +88,7 @@ int main() {
     myLibrary.addPlaylist(pop);
     myLibrary.listenPlaylist("Pop");
 
-    std::cout << "I want this line to represent the final version of my program!!" << std::endl;
+    std::cout << "I am looking forward to dancing to all this playlists!" << std::endl;
 
 
 
