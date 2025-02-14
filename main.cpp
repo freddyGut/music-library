@@ -88,7 +88,7 @@ int main() {
     myLibrary.addPlaylist(pop);
     myLibrary.listenPlaylist("Pop");
 
-    std::cout << "I am looking forward to dancing to all this playlists!" << std::endl;
+    std::cout << "I am looking forward to dancing to all this playlists! How do you feel about them?" << std::endl;
 
 
 
