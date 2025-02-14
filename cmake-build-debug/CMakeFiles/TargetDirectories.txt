@@ -1,3 +1,0 @@
-C:/Users/Jonathan/CLionProjects/TerzoEsercizio_MusicLibrary/cmake-build-debug/CMakeFiles/TerzoEsercizio_MusicLibrary.dir
-C:/Users/Jonathan/CLionProjects/TerzoEsercizio_MusicLibrary/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Jonathan/CLionProjects/TerzoEsercizio_MusicLibrary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
